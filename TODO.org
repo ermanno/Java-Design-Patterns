@@ -1,0 +1,2 @@
+* Java Design Patterns
+These are the exercises from the book [[https://www.amazon.com/Java-Design-Patterns-Vaskaran-Sarcar/dp/1484218019/ref=la_B00UT6ILBK_1_1?s=books&ie=UTF8&qid=1494161238&sr=1-1][Java Design Patterns]].
